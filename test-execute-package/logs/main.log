@@ -1,0 +1,9 @@
+2019-02-13 16:21:56,121 +0700 [main] INFO  (RunScript.java:26) - -- START RUN SFC FMA BENEFIT -- 
+2019-02-13 16:21:56,446 +0700 [main] DEBUG (RunScript.java:85) - scheduleId : 886 performanceYear : 2018 perfomrnace_month : 12
+2019-02-13 16:21:56,489 +0700 [main] INFO  (RunScript.java:50) - -- END RUN SFC FMA BENEFIT -- 
+2019-02-13 16:26:37,245 +0700 [main] INFO  (RunScript.java:26) - -- START RUN SFC FMA BENEFIT -- 
+2019-02-13 16:26:37,523 +0700 [main] DEBUG (RunScript.java:85) - scheduleId : 886 performanceYear : 2018 perfomrnace_month : 12
+2019-02-13 16:26:37,567 +0700 [main] INFO  (RunScript.java:50) - -- END RUN SFC FMA BENEFIT -- 
+2019-02-13 16:27:13,294 +0700 [main] INFO  (RunScript.java:26) - -- START RUN SFC FMA BENEFIT -- 
+2019-02-13 16:27:13,566 +0700 [main] DEBUG (RunScript.java:85) - scheduleId : 886 performanceYear : 2018 perfomrnace_month : 12
+2019-02-13 16:27:13,607 +0700 [main] INFO  (RunScript.java:50) - -- END RUN SFC FMA BENEFIT -- 

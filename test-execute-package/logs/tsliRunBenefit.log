@@ -1,0 +1,6 @@
+[INFO] 2019-02-13 16:08:44|main|com.motif.run.RunScript| - -- START RUN SFC FMA BENEFIT -- 
+[DEBUG] 2019-02-13 16:08:44|main|com.motif.run.RunScript| - scheduleId : 886 performanceYear : 2018 perfomrnace_month : 12
+[INFO] 2019-02-13 16:08:44|main|com.motif.run.RunScript| - -- END RUN SFC FMA BENEFIT -- 
+[INFO] 2019-02-13 16:13:24|main|com.motif.run.RunScript| -com.motif.run.RunScript - -- START RUN SFC FMA BENEFIT -- 
+[DEBUG] 2019-02-13 16:13:24|main|com.motif.run.RunScript| -com.motif.run.RunScript - scheduleId : 886 performanceYear : 2018 perfomrnace_month : 12
+[INFO] 2019-02-13 16:13:24|main|com.motif.run.RunScript| -com.motif.run.RunScript - -- END RUN SFC FMA BENEFIT -- 
